@@ -13,7 +13,7 @@
   
   ## [Description](#table-of-contents)
 
- This repository was used to help learn the use of REACT and create-react-app to build a modern responsive UI design and begin to familiarize myself with REACT component structure. 
+ This repository was used to help learn the use of REACT and create-react-app to build a modern responsive UI design and begin to familiarize myself with REACT component structure. Uses HTML, Javascript, CSS, REACT, CREATE-REACT-APP
 
 
   ## [Installation](#table-of-contents)
